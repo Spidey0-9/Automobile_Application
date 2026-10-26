@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AutoCare Manager",
+    "slug": "automobile-management-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "autocaremanager",
+    "plugins": [
+      "expo-router",
+      "expo-image-picker",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "com.client.automobilemanagement"
+    }
+  }
+}
